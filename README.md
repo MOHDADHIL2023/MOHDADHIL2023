@@ -17,3 +17,9 @@ Ask me about creating something from scratch, debugging complex hardware/softwar
 
 ⚡ Fun Fact:
 I cracked my first complex SQL query before my first cup of primary coffee!
+
+# 🌐 Socials
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohd-adil-hossain/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mhd_adil_hossain)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MOHDADHIL2023)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhd_adil_hossain/)
