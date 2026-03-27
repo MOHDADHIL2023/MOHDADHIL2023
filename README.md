@@ -23,8 +23,8 @@ I cracked my first complex SQL query before my first cup of primary coffee!
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mhd_adil_hossain)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MOHDADHIL2023)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhd_adil_hossain/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbER2clhlRkpreWVVRGc1WTZCVEtvQ0tjZEJfQXxBQ3Jtc0tsM2lZTXRwUG9HakRDTkQ2bXBSbWt5bVpqTjJKZTFXRTlKNERjeGFzM2dBX1Vpc19iTTRoOV8yQzN2aDZLVjQyRTcxQVZLN1FxLW05V29GanRoYjRQd282aV9tZFNXcHdoak1Dd196ei1KOWprREhObw&q=https%3A%2F%2Fwww.facebook.com%2Fpeople%2FMhd-Adil-Hossain%2Fpfbid0z8iZ1zZuG2d8UdMYPpfiqt6GWwb1PjCsF38qMpstnLjb2J7n97BfpHnf4m1a4LQGl%2F%3Fref%3Dxav_ig_profile_web)
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqblltYVFmN2ZuUVFyWUsyWUpVMXo0cnFKRHBEUXxBQ3Jtc0ttNVA1SHV3S3FIU0RYeXV4RkxuZ3g2N2ZCQlphcHZPNWVyT0xyam5kbGxuRmlRWU1VaWxXbG1palJyRVY0N0Q5cGhvZ2tnVXlDX1dXX1ltM0ExNWhhNjBxUU1aOE81OGljRGlTQWQyVUJBSW1RWjBONA&q=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Fmhdadilhossai24)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mhd.adil.hossain/)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/@mhdadilhossai24)
 
 # 💻 Tech Stack:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
@@ -54,3 +54,18 @@ I cracked my first complex SQL query before my first cup of primary coffee!
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)]
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)]
+[![Gradio](https://img.shields.io/badge/Gradio-F97316?logo=Gradio&logoColor=white)]
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)]
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)]
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)]
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)]
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)]
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)]
+[![Auth.js](https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=fff)]
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)]
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)]
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)]
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)]
