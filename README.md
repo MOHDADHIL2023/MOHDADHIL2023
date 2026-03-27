@@ -25,6 +25,7 @@ I cracked my first complex SQL query before my first cup of primary coffee!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhd_adil_hossain/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mhd.adil.hossain/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/@mhdadilhossai24)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@mhd_adil_hossain)
 
 # 💻 Tech Stack:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
