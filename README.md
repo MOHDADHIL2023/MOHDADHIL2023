@@ -1,5 +1,5 @@
 Hi there 👋 I'm Mohd Adil Hossain
-### 💫 About Me
+# 💫 About Me
 
 Hello 👋! I'm Mohd Adil Hossain. I'm a final-year Creative Computing student at Bath Spa University. I'm passionate about bridging the gap between hardware and software. I'm not only learning about technology; I'm also using it to create.
 
